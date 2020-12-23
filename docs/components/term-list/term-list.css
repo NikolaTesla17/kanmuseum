@@ -1,3 +1,0 @@
-/**
- * Term list
- */dt {	color: #c33134;}* + dd {	margin-top: 0.0625rem;}* + dl {	margin-top: 0.96875rem;}dl + dl {	margin-top: 0.65625rem;}@media (min-width: 576px) {	.dl-horizontal {		display: flex;	}	.dl-horizontal dt {		margin-right: 0.5rem;	}	.dl-horizontal * + dd {		margin-top: 0;	}}@media (min-width: 1600px) {	* + dl {		margin-top: 1.35625rem;	}	dl + dl {		margin-top: 0.91875rem;	}}@media (min-width: 1600px) {	* + dl {		margin-top: 1.9375rem;	}	dl + dl {		margin-top: 1.3125rem;	}}
